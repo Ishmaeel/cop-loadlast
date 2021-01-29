@@ -31,6 +31,7 @@
   <button h="25"/>
 
 	<menu_main btn_height="34" font="graffiti22">
+	    <btn name="btn_lastsave"	caption="ui_mm_last_save" />
     	<btn name="btn_new_game"	caption="ui_mm_newgame" />
 		<btn name="btn_load"		caption="ui_mm_load_game" />
 		<btn name="btn_net_game"	caption="ui_mm_network_game" />
